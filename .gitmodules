@@ -1,0 +1,5 @@
+[submodule "SDK/orangebox"]
+	path = SDK/orangebox
+	url = https://github.com/alliedmodders/hl2sdk.git
+	branch = orangebox
+	shallow = true
